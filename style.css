@@ -3,7 +3,10 @@ html {
   width: 100%;
 }
 
+.hidden {
+  display: none;
+}
+
 #gif {
   max-width: 100%;
-  display: none;
 }
